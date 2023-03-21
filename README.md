@@ -13,13 +13,13 @@
 
 - 👨‍💻 All of my projects are available at [portfolio](portfolio)
 
-- 💬 Ask me about **IoT, cloud services and AI**
+- 💬 Ask me about **IoT, cloud services and AI/ML/DL**
 
 - 📫 How to reach me **manikantanagulapalli.99@gmail.com**
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1dq1qh8eHCaXD3_-1WySUVCuo7Q_9WZuG/view?usp=share_link](https://drive.google.com/file/d/1dq1qh8eHCaXD3_-1WySUVCuo7Q_9WZuG/view?usp=share_link)
 
-- ⚡ Fun fact **I think I am funny**
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
