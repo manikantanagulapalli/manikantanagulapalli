@@ -1,4 +1,4 @@
-![MasterHead](https://assets.new.siemens.com/siemens/assets/api/uuid:6b45ae45-02ad-44b0-9b6b-16d5afb4e98b/width:1000/crop:0:0:0,999:0,87539/quality:high/ai.jpg)]>
+![MasterHead](https://miro.medium.com/v2/resize:fit:828/format:webp/1*Z4ixxaOGAAN4XWoIBJ_TJQ.jpeg)]>
 <h1 align="center">Hi 👋, I'm Manikanta Nagulapalli</h1>
 <h3 align="center">A passionate about Learning Machine Learning and Deep Learning techniques</h3>
 <img align="right" alt="Coding" width="400" src="https://media.tenor.com/BqbIhT4Mb7cAAAAd/programmer-rounded-edges.gif">
