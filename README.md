@@ -9,9 +9,9 @@
 
 - 🌱 I’m currently learning **Cloud services and Deep Learning**
 
-- 🤝 I’m looking for Internships **AI/ML/DL**
+- 🤝 I’m looking for full time oppurtunities **AI/ML/DL, IoT and Cloud Services**
 
-- 👨‍💻 All of my projects are available at [portfolio](portfolio)
+- 👨‍💻 All of my projects are available at [portfolio](https://manikantanagulapalli.github.io/)
 
 - 💬 Ask me about **IoT, cloud services and AI/ML/DL**
 
