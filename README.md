@@ -17,7 +17,7 @@
 
 - 📫 How to reach me **manikantanagulapalli.99@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1dq1qh8eHCaXD3_-1WySUVCuo7Q_9WZuG/view?usp=share_link](https://drive.google.com/file/d/1dq1qh8eHCaXD3_-1WySUVCuo7Q_9WZuG/view?usp=share_link)
+- 📄 Know about my experiences [[https://drive.google.com/file/d/1dq1qh8eHCaXD3_-1WySUVCuo7Q_9WZuG/view?usp=share_link]](https://drive.google.com/file/d/1IaRA_JcvGmClXJy7FrWdgmQdpjvkdvz2/view?usp=drive_link)(https://drive.google.com/file/d/1dq1qh8eHCaXD3_-1WySUVCuo7Q_9WZuG/view?usp=share_link)
 
 
 
